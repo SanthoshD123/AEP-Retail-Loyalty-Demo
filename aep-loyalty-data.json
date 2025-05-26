@@ -1,0 +1,132 @@
+[
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "john.doe@example.com",
+      "customerID": "CUST001",
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1985-03-25",
+      "loyaltyJoinDate": "2020-01-15",
+      "loyaltyTier": "gold",
+      "totalPointsEarned": 1500,
+      "phoneNumber": "+11234567890"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "jane.smith@example.com",
+      "customerID": "CUST002",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "dateOfBirth": "1990-07-10",
+      "loyaltyJoinDate": "2021-05-20",
+      "loyaltyTier": "platinum",
+      "totalPointsEarned": 4200,
+      "phoneNumber": "+11234567891"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "alex.brown@example.com",
+      "customerID": "CUST003",
+      "firstName": "Alex",
+      "lastName": "Brown",
+      "dateOfBirth": "1978-11-30",
+      "loyaltyJoinDate": "2019-09-10",
+      "loyaltyTier": "silver",
+      "totalPointsEarned": 800,
+      "phoneNumber": "+11234567892"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "emily.jones@example.com",
+      "customerID": "CUST004",
+      "firstName": "Emily",
+      "lastName": "Jones",
+      "dateOfBirth": "1992-02-14",
+      "loyaltyJoinDate": "2022-02-01",
+      "loyaltyTier": "gold",
+      "totalPointsEarned": 2200,
+      "phoneNumber": "+11234567893"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "michael.wilson@example.com",
+      "customerID": "CUST005",
+      "firstName": "Michael",
+      "lastName": "Wilson",
+      "dateOfBirth": "1980-12-05",
+      "loyaltyJoinDate": "2020-11-11",
+      "loyaltyTier": "platinum",
+      "totalPointsEarned": 5100,
+      "phoneNumber": "+11234567894"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "sarah.lee@example.com",
+      "customerID": "CUST006",
+      "firstName": "Sarah",
+      "lastName": "Lee",
+      "dateOfBirth": "1995-04-22",
+      "loyaltyJoinDate": "2023-01-10",
+      "loyaltyTier": "silver",
+      "totalPointsEarned": 600,
+      "phoneNumber": "+11234567895"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "daniel.kim@example.com",
+      "customerID": "CUST007",
+      "firstName": "Daniel",
+      "lastName": "Kim",
+      "dateOfBirth": "1988-06-12",
+      "loyaltyJoinDate": "2020-07-20",
+      "loyaltyTier": "gold",
+      "totalPointsEarned": 1700,
+      "phoneNumber": "+11234567896"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "olivia.white@example.com",
+      "customerID": "CUST008",
+      "firstName": "Olivia",
+      "lastName": "White",
+      "dateOfBirth": "1991-10-03",
+      "loyaltyJoinDate": "2021-03-14",
+      "loyaltyTier": "silver",
+      "totalPointsEarned": 950,
+      "phoneNumber": "+11234567897"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "james.hall@example.com",
+      "customerID": "CUST009",
+      "firstName": "James",
+      "lastName": "Hall",
+      "dateOfBirth": "1983-09-19",
+      "loyaltyJoinDate": "2018-08-30",
+      "loyaltyTier": "platinum",
+      "totalPointsEarned": 4800,
+      "phoneNumber": "+11234567898"
+    }
+  },
+  {
+    "_adlsplatformapac": {
+      "emailAddress": "laura.green@example.com",
+      "customerID": "CUST010",
+      "firstName": "Laura",
+      "lastName": "Green",
+      "dateOfBirth": "1993-01-08",
+      "loyaltyJoinDate": "2022-06-25",
+      "loyaltyTier": "gold",
+      "totalPointsEarned": 3100,
+      "phoneNumber": "+11234567899"
+    }
+  }
+]
