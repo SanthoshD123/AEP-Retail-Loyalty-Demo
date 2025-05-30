@@ -6,7 +6,6 @@ This repository contains mock customer data and SQL queries for practicing Adobe
 
 - `shopstream-loyalty-data.json` — Sample customer data for upload into AEP.
 - `queries/` — SQL queries for segmentation and analytics using AEP Query Service.
-- `screenshots/` — Visuals of schema setup, dataset structure, and more.
 
 ## 🧾 Sample Fields
 
