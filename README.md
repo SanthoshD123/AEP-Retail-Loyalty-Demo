@@ -37,7 +37,7 @@ You can use this data to simulate customer segmentation tasks, such as:
 
 ## 📸 Screenshots
 
-Screenshots of schema setup and query runs are available in the `screenshots/` folder.
+![image](https://github.com/user-attachments/assets/2984fca7-8b7a-4649-9444-3c9af6285a76)
 
 ## 🔐 Disclaimer
 
