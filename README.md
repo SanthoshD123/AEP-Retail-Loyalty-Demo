@@ -37,7 +37,12 @@ You can use this data to simulate customer segmentation tasks, such as:
 
 ## 📸 Screenshots
 
+Schema
 ![image](https://github.com/user-attachments/assets/2984fca7-8b7a-4649-9444-3c9af6285a76)
+
+Query output
+![image](https://github.com/user-attachments/assets/9e332d80-85db-4536-9533-4eb0754ba573)
+
 
 ## 🔐 Disclaimer
 
